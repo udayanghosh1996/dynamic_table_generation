@@ -7,6 +7,28 @@
 python Dynamic_Table_Generation/utils/dataset_label_preparation.py
 *Ensure the dataset is located at the path:* `./Dataset/PubTabNet/pubtabnet/pubtabnet`.
 
+
+2. **Train the Model**  
+To train the model, execute:
+python Dynamic_Table_Generation/main.py
+
+
+3. **Generate SSIM Score**  
+To calculate the SSIM score for model evaluation, run:
+python SSIM_Score/main.py
+
+
+4. **Generate Table as Web Service**  
+To generate tables as a web service, run:
+python Table_Generation/app.py
+
+Open the webpage and provide the necessary input to get generated tables.
+
+---
+
+### Label Preperation sample, training and validation loss curves
+
+
 **Label Preparation**
 <p align="center">
   <img src="Images/Labels_before_processing.png" width="400" alt="Labels before processing">
@@ -18,10 +40,6 @@ python Dynamic_Table_Generation/utils/dataset_label_preparation.py
   <br>
   <em>Labels after processing</em>
 </p>
-
-2. **Train the Model**  
-To train the model, execute:
-python Dynamic_Table_Generation/main.py
 
 
 **Training and Validation Loss**
@@ -55,19 +73,6 @@ python Dynamic_Table_Generation/main.py
   <br>
   <em>Loss Curve for Timesteps - 50</em>
 </p>
-
-3. **Generate SSIM Score**  
-To calculate the SSIM score for model evaluation, run:
-python SSIM_Score/main.py
-
-
-4. **Generate Table as Web Service**  
-To generate tables as a web service, run:
-python Table_Generation/app.py
-
-Open the webpage and provide the necessary input to get generated tables.
-
----
 
 ### Sample Output
 
