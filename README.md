@@ -26,32 +26,32 @@ python Dynamic_Table_Generation/main.py
 
 **Training and Validation Loss**
 <p align="center">
-  <img src="Images/timesteps_10.png" width="200" alt="Timesteps - 10">
+  <img src="Images/timesteps_10.png" width="400" alt="Timesteps - 10">
   <br>
   <em>Loss Curve for Timesteps - 10</em>
 </p>
 <p align="center">
-  <img src="Images/timesteps_15.png" width="200" alt="Timesteps - 15">
+  <img src="Images/timesteps_15.png" width="400" alt="Timesteps - 15">
   <br>
   <em>Loss Curve for Timesteps - 15</em>
 </p>
 <p align="center">
-  <img src="Images/timesteps_20.png" width="200" alt="Timesteps - 20">
+  <img src="Images/timesteps_20.png" width="400" alt="Timesteps - 20">
   <br>
   <em>Loss Curve for Timesteps - 20</em>
 </p>
 <p align="center">
-  <img src="Images/timesteps_30.png" width="200" alt="Timesteps - 30">
+  <img src="Images/timesteps_30.png" width="400" alt="Timesteps - 30">
   <br>
   <em>Loss Curve for Timesteps - 30</em>
 </p>
 <p align="center">
-  <img src="Images/timesteps_40.png" width="200" alt="Timesteps - 40">
+  <img src="Images/timesteps_40.png" width="400" alt="Timesteps - 40">
   <br>
   <em>Loss Curve for Timesteps - 40</em>
 </p>
 <p align="center">
-  <img src="Images/timesteps_50.png" width="200" alt="Timesteps - 50">
+  <img src="Images/timesteps_50.png" width="400" alt="Timesteps - 50">
   <br>
   <em>Loss Curve for Timesteps - 50</em>
 </p>
@@ -76,32 +76,32 @@ Below are samples of generated images via the web service:
 **Generated images through web service**
 
 <p align="center">
-<img src="Images/generated_images_timesteps-10.png" width="200" alt="Generated Images for Timesteps - 10">
+<img src="Images/generated_images_timesteps-10.png" width="600" alt="Generated Images for Timesteps - 10">
 <br>
 <em>Generated Images for Timesteps - 10</em>
 </p>
 <p align="center">
-<img src="Images/generated_images_timesteps-15.png" width="200" alt="Generated Images for Timesteps - 15">
+<img src="Images/generated_images_timesteps-15.png" width="600" alt="Generated Images for Timesteps - 15">
 <br>
 <em>Generated Images for Timesteps - 15</em>
 </p>
 <p align="center">
-<img src="Images/generated_images_timesteps-20.png" width="200" alt="Generated Images for Timesteps - 20">
+<img src="Images/generated_images_timesteps-20.png" width="600" alt="Generated Images for Timesteps - 20">
 <br>
 <em>Generated Images for Timesteps - 20</em>
 </p>
 <p align="center">
-<img src="Images/generated_images_timesteps-30.png" width="200" alt="Generated Images for Timesteps - 30">
+<img src="Images/generated_images_timesteps-30.png" width="600" alt="Generated Images for Timesteps - 30">
 <br>
 <em>Generated Images for Timesteps - 30</em>
 </p>
 <p align="center">
-<img src="Images/generated_images_timesteps-40.png" width="200" alt="Generated Images for Timesteps - 40">
+<img src="Images/generated_images_timesteps-40.png" width="600" alt="Generated Images for Timesteps - 40">
 <br>
 <em>Generated Images for Timesteps - 40</em>
 </p>
 <p align="center">
-<img src="Images/generated_images_timesteps-50.png" width="200" alt="Generated Images for Timesteps - 50">
+<img src="Images/generated_images_timesteps-50.png" width="600" alt="Generated Images for Timesteps - 50">
 <br>
 <em>Generated Images for Timesteps - 50</em>
 </p>
