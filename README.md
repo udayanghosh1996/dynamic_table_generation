@@ -74,6 +74,8 @@ Open the webpage and provide the necessary input to get generated tables.
   <em>Loss Curve for Timesteps - 50</em>
 </p>
 
+---
+
 ### Sample Output
 
 Below are samples of generated images via the web service:
